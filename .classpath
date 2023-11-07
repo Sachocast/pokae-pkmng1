@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main"/>
+	<classpathentry kind="src" path="src/test"/>
+	<classpathentry kind="lib" path="docs/Json/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="docs/Junit/junit-platform-console-standalone-1.8.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

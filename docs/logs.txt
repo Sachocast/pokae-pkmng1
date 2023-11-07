@@ -1,0 +1,1430 @@
+juin 19, 2022 10:55:47 PM Exemple main
+INFO: ====================== COMBAT ENTRE IA ======================
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 31 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Smogo
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Excelangue
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Caninos
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Rattata
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Élektek
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Scarabrute
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 2 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Élektek
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Ramoloss
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Amonita
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Ponyta
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Artikodin
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Ptitard
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Début du combat ==================
+
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: dresseur 31 envoie Scarabrute !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: dresseur 2 envoie Artikodin !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 0 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Scarabrute gagne le speed tie
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Scarabrute utilise Plaquage sur Artikodin !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Artikodin a perdu 50% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Artikodin utilise Picpic sur Scarabrute !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Scarabrute a perdu 83% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Scarabrute a 17% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Artikodin a 50% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 1 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Scarabrute retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Scarabrute le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Artikodin utilise Picpic sur Scarabrute !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Scarabrute a perdu 17% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Scarabrute a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Artikodin a 50% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Scarabrute n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Artikodin gagne 43 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Artikodin monte au niveau 4 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 31 envoie Caninos !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 2 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Artikodin retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Ptitard le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Caninos utilise Force sur Ptitard !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ptitard a perdu 50% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Caninos a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Ptitard a 50% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 3 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Ptitard gagne le speed tie
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ptitard utilise Laser Glace sur Caninos !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Caninos a perdu 50% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Caninos utilise Draco-Rage sur Ptitard !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ptitard a perdu 50% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Caninos a 50% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Ptitard a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Ptitard n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Caninos gagne 17 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Caninos monte au niveau 3 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 2 envoie Ponyta !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 4 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Caninos retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Smogo le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Ponyta retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Amonita le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Smogo a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Amonita a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 5 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Smogo retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Smogo le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Amonita retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Artikodin le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Smogo a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Artikodin a 50% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 6 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Artikodin attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Artikodin utilise Picpic sur Smogo !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Smogo a perdu 67% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Smogo utilise Lance-Flammes sur Artikodin !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Artikodin a perdu 33% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Smogo a 33% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Artikodin a 17% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 7 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Artikodin attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Artikodin utilise Patience sur Smogo !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Smogo a perdu 0% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Smogo utilise Fatal-Foudre sur Artikodin !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Artikodin a perdu 17% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Smogo a 33% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Artikodin a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Artikodin n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Smogo gagne 184 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Smogo monte au niveau 6 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 2 envoie Ramoloss !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 8 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Smogo attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Smogo utilise Lance-Flammes sur Ramoloss !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ramoloss a perdu 92% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ramoloss utilise Choc Mental sur Smogo !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Smogo a perdu 33% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Smogo a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Ramoloss a 8% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Smogo n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Ramoloss gagne 147 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Ramoloss monte au niveau 6 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 31 envoie Caninos !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 9 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Caninos retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Élektek le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Ramoloss retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Ponyta le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Élektek a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Ponyta a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 10 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Élektek retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Élektek le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Ponyta retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Ramoloss le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Élektek a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Ramoloss a 8% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 11 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Ramoloss gagne le speed tie
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ramoloss utilise Écrasement sur Élektek !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Élektek a perdu 100% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Élektek a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Ramoloss a 8% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Élektek n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Ramoloss gagne 33 points d'expérience !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 31 envoie Excelangue !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 12 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Ramoloss attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ramoloss utilise Choc Mental sur Excelangue !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Excelangue a perdu 100% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Excelangue a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Ramoloss a 8% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Excelangue n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Ramoloss gagne 27 points d'expérience !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 31 envoie Rattata !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 13 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Ramoloss attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ramoloss utilise Patience sur Rattata !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rattata a perdu 0% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rattata utilise Tonnerre sur Ramoloss !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ramoloss a perdu 8% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rattata a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Ramoloss a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Ramoloss n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Rattata gagne 127 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Rattata monte au niveau 5 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 2 envoie Ponyta !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 14 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Rattata attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rattata utilise Fatal-Foudre sur Ponyta !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ponyta a perdu 0% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ponyta utilise Damoclès sur Rattata !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rattata a perdu 28% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rattata a 72% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Ponyta a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 15 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Rattata attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rattata utilise Riposte sur Ponyta !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ponyta a perdu 8% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ponyta utilise Damoclès sur Rattata !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rattata a perdu 28% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rattata a 44% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Ponyta a 92% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 16 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Rattata attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rattata utilise Pistolet à O sur Ponyta !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ponyta a perdu 92% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rattata a 44% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Ponyta a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Ponyta n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Rattata gagne 33 points d'expérience !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 2 envoie Amonita !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 17 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Rattata retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Rattata le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Amonita utilise Patience sur Rattata !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rattata a perdu 0% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rattata a 44% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Amonita a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 18 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Amonita retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Élektek le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rattata utilise Tonnerre sur Élektek !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Élektek a perdu 50% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rattata a 44% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Élektek a 50% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 19 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Rattata attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rattata utilise Fatal-Foudre sur Élektek !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Élektek a perdu 50% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rattata a 44% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Élektek a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Élektek n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Rattata gagne 33 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Rattata monte au niveau 6 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 2 envoie Amonita !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 20 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Rattata attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rattata utilise Fatal-Foudre sur Amonita !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Amonita a perdu 0% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Amonita utilise Plaquage sur Rattata !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rattata a perdu 21% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rattata a 23% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Amonita a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 21 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Rattata attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rattata utilise Fatal-Foudre sur Amonita !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Amonita a perdu 100% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rattata a 23% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Amonita a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Amonita n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Rattata gagne 26 points d'expérience !
+juin 19, 2022 10:55:59 PM combat.Combats termine
+INFO: 
+dresseur 31 remporte le combat contre dresseur 2 !
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 31 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Smogo
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Excelangue
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Caninos
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Rattata
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Élektek
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Scarabrute
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 2 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Élektek
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Ramoloss
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Amonita
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Ponyta
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Artikodin
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Ptitard
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 11 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Doduo
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Smogo
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Doduo
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Lokhlass
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Mystherbe
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Tentacool
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 24 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Racaillou
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Psykokwak
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Ptéra
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Krabby
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Pikachu
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Magmar
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Début du combat ==================
+
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: dresseur 11 envoie Lokhlass !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: dresseur 24 envoie Magmar !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 0 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Magmar attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Magmar utilise Ultimapoing sur Lokhlass !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Lokhlass a perdu 46% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Lokhlass utilise Damoclès sur Magmar !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Magmar a perdu 50% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Lokhlass a 54% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Magmar a 50% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 1 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Magmar attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Magmar utilise Ultralaser sur Lokhlass !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Lokhlass a perdu 54% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Lokhlass a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Magmar a 50% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Lokhlass n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Magmar gagne 47 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Magmar monte au niveau 4 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 11 envoie Doduo !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 2 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Magmar attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Magmar utilise Psyko sur Doduo !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Doduo a perdu 100% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Doduo a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Magmar a 50% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Doduo n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Magmar gagne 21 points d'expérience !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 11 envoie Doduo !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 3 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Magmar attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Magmar utilise Ultimapoing sur Doduo !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Doduo a perdu 100% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Doduo a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Magmar a 50% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Doduo n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Magmar gagne 21 points d'expérience !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 11 envoie Mystherbe !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 4 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Magmar attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Magmar utilise Ultimapoing sur Mystherbe !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Mystherbe a perdu 100% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Mystherbe a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Magmar a 50% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Mystherbe n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Magmar gagne 17 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Magmar monte au niveau 5 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 11 envoie Smogo !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 5 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Magmar retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Krabby le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Smogo utilise Lance-Flammes sur Krabby !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby a perdu 27% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Smogo a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 73% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 6 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Krabby attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby utilise Coupe sur Smogo !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Smogo a perdu 36% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Smogo utilise Frénésie sur Krabby !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby a perdu 18% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Smogo a 64% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 55% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 7 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Krabby attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby utilise Blizzard sur Smogo !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Smogo a perdu 55% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Smogo utilise Lance-Flammes sur Krabby !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby a perdu 27% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Smogo a 9% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 27% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 8 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Krabby attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby utilise Blizzard sur Smogo !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Smogo a perdu 9% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Smogo a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 27% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Smogo n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Krabby gagne 24 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Krabby monte au niveau 3 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 11 envoie Tentacool !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 9 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Krabby attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby utilise Coupe sur Tentacool !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Tentacool a perdu 75% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Tentacool utilise Onde Boréale sur Krabby !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby a perdu 13% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Tentacool a 25% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 14% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 10 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Krabby attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby utilise Tunnel sur Tentacool !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Tentacool a perdu 25% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Tentacool a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 14% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Tentacool n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Krabby gagne 23 points d'expérience !
+juin 19, 2022 10:55:59 PM combat.Combats termine
+INFO: 
+dresseur 24 remporte le combat contre dresseur 11 !
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 11 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Doduo
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Smogo
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Doduo
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Lokhlass
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Mystherbe
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Tentacool
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 24 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Racaillou
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Psykokwak
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Ptéra
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Krabby
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Pikachu
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Magmar
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 17 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Abo
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Lokhlass
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Rondoudou
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Chenipan
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Fantominus
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Minidraco
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 14 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Soporifik
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Mélofée
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Canarticho
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Krabby
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Ramoloss
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Nidoran♀
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Début du combat ==================
+
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: dresseur 17 envoie Rondoudou !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: dresseur 14 envoie Nidoran♀ !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 0 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Rondoudou gagne le speed tie
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rondoudou utilise Poing Glace sur Nidoran♀ !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Nidoran♀ a perdu 42% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Nidoran♀ utilise Coupe sur Rondoudou !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rondoudou a perdu 31% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rondoudou a 69% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Nidoran♀ a 58% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 1 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Nidoran♀ gagne le speed tie
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Nidoran♀ utilise Bélier sur Rondoudou !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rondoudou a perdu 0% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rondoudou utilise Poing Glace sur Nidoran♀ !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Nidoran♀ a perdu 42% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rondoudou a 69% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Nidoran♀ a 17% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 2 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Rondoudou gagne le speed tie
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rondoudou utilise Tonnerre sur Nidoran♀ !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Nidoran♀ a perdu 17% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rondoudou a 69% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Nidoran♀ a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Nidoran♀ n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Rondoudou gagne 13 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Rondoudou monte au niveau 3 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 14 envoie Ramoloss !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 3 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Ramoloss retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Canarticho le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rondoudou utilise Pistolet à O sur Canarticho !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Canarticho a perdu 33% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rondoudou a 69% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Canarticho a 67% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 4 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Rondoudou gagne le speed tie
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rondoudou utilise Frénésie sur Canarticho !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Canarticho a perdu 42% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Canarticho utilise Tornade sur Rondoudou !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Rondoudou a perdu 25% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Rondoudou a 44% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Canarticho a 25% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 5 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Rondoudou retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Lokhlass le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Canarticho utilise Picpic sur Lokhlass !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Lokhlass a perdu 38% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Lokhlass a 62% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Canarticho a 25% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 6 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Lokhlass gagne le speed tie
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Lokhlass utilise Ultralaser sur Canarticho !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Canarticho a perdu 25% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Lokhlass a 62% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Canarticho a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Canarticho n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Lokhlass gagne 20 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Lokhlass monte au niveau 3 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 14 envoie Krabby !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 7 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Krabby retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Ramoloss le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Lokhlass utilise Blizzard sur Ramoloss !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ramoloss a perdu 62% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Lokhlass a 62% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Ramoloss a 38% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 8 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Lokhlass attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Lokhlass utilise Draco-Rage sur Ramoloss !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Ramoloss a perdu 38% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Lokhlass a 62% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Ramoloss a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Ramoloss n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Lokhlass gagne 21 points d'expérience !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 14 envoie Soporifik !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 9 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Lokhlass attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Lokhlass utilise Ultralaser sur Soporifik !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Soporifik a perdu 100% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Lokhlass a 62% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Soporifik a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Soporifik n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Lokhlass gagne 22 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Lokhlass monte au niveau 4 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 14 envoie Mélofée !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 10 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Lokhlass attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Lokhlass utilise Draco-Rage sur Mélofée !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Mélofée a perdu 100% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Lokhlass a 62% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Mélofée a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Mélofée n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Lokhlass gagne 15 points d'expérience !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 14 envoie Krabby !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 11 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Lokhlass attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Lokhlass utilise Draco-Rage sur Krabby !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby a perdu 100% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Lokhlass a 62% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Krabby n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Lokhlass gagne 25 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Lokhlass monte au niveau 5 !
+juin 19, 2022 10:55:59 PM combat.Combats termine
+INFO: 
+dresseur 17 remporte le combat contre dresseur 14 !
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 17 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Abo
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Lokhlass
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Rondoudou
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Chenipan
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Fantominus
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Minidraco
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 14 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Soporifik
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Mélofée
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Canarticho
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Krabby
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Ramoloss
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Nidoran♀
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 7 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Magnéti
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Roucool
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Piafabec
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Krabby
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Mimitoss
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Otaria
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 15 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Ptitard
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Porygon
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Mew
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Krabby
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Miaouss
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Mewtwo
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Début du combat ==================
+
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: dresseur 7 envoie Mimitoss !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: dresseur 15 envoie Krabby !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 0 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Mimitoss gagne le speed tie
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Mimitoss utilise Frénésie sur Krabby !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby a perdu 18% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby utilise Bélier sur Mimitoss !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Mimitoss a perdu 58% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Mimitoss a 42% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 82% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 1 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Mimitoss gagne le speed tie
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Mimitoss utilise Damoclès sur Krabby !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby a perdu 55% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby utilise Surf sur Mimitoss !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Mimitoss a perdu 42% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Mimitoss a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 27% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Mimitoss n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Krabby gagne 16 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Krabby monte au niveau 3 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 7 envoie Magnéti !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 2 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Krabby attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby utilise Surf sur Magnéti !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Magnéti a perdu 100% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Magnéti a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 27% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Magnéti n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Krabby gagne 19 points d'expérience !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 7 envoie Otaria !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 3 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Krabby attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby utilise Bélier sur Otaria !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Otaria a perdu 100% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Otaria a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 27% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Otaria n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Krabby gagne 21 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Krabby monte au niveau 4 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 7 envoie Roucool !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 4 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Roucool retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Roucool le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby utilise Bélier sur Roucool !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Roucool a perdu 100% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Roucool a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 27% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Roucool n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Krabby gagne 12 points d'expérience !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 7 envoie Piafabec !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 5 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Piafabec retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Krabby le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Krabby retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Mewtwo le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Mewtwo a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 6 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Krabby retourne vers son dresseur tandis que 
+juin 19, 2022 10:55:59 PM combat.Tour commence
+INFO: Piafabec le remplace !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Mewtwo utilise Poing Glace sur Piafabec !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Piafabec a perdu 100% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Piafabec a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Mewtwo a 100% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Piafabec n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Mewtwo gagne 12 points d'expérience !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Mewtwo monte au niveau 3 !
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: dresseur 7 envoie Krabby !
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 7 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Mewtwo attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Mewtwo utilise Jackpot sur Krabby !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby a perdu 64% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby utilise Force sur Mewtwo !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Mewtwo a perdu 21% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 36% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Mewtwo a 79% de PV
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Tour 8 ==================
+
+juin 19, 2022 10:55:59 PM combat.Tour calculPriorite
+INFO: Mewtwo attaque en premier !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Mewtwo utilise Dévorêve sur Krabby !
+juin 19, 2022 10:55:59 PM combat.Tour lancementAttaque
+INFO: Krabby a perdu 36% de PV !
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Krabby a 0% de PV
+juin 19, 2022 10:55:59 PM combat.Tour affichePV
+INFO: Mewtwo a 79% de PV
+juin 19, 2022 10:55:59 PM combat.Combats verifPokemon
+INFO: Krabby n'est plus en état de se battre !
+juin 19, 2022 10:55:59 PM pokemon.Pokemon gagneExperienceDe
+INFO: Mewtwo gagne 25 points d'expérience !
+juin 19, 2022 10:55:59 PM combat.Combats termine
+INFO: 
+dresseur 15 remporte le combat contre dresseur 7 !
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 7 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Magnéti
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Roucool
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Piafabec
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Krabby
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Mimitoss
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Otaria
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 15 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Ptitard
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Porygon
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Mew
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Krabby
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Miaouss
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Mewtwo
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de a ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Mélofée
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Élektek
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Bulbizarre
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Noeunoeuf
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Carapuce
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Fantominus
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de dresseur 9 ===========
+
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Rhinocorne
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Rattata
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Voltorbe
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Racaillou
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Artikodin
+juin 19, 2022 10:55:59 PM combat.Combats montreEquipe
+INFO: Électhor
+juin 19, 2022 10:55:59 PM combat.Combats commence
+INFO: 
+=================== Début du combat ==================
+
+juin 19, 2022 10:56:02 PM combat.Combats commence
+INFO: a envoie Mélofée !
+juin 19, 2022 10:56:02 PM combat.Combats commence
+INFO: dresseur 9 envoie Rhinocorne !
+juin 19, 2022 10:56:02 PM combat.Combats commence
+INFO: 
+=================== Tour 0 ==================
+
+juin 19, 2022 10:56:02 PM combat.Dresseur choisitAttaque
+INFO: Le pokemon attaquant choisit son attaque
+
+juin 19, 2022 10:56:09 PM combat.Tour commence
+INFO: Mélofée retourne vers son dresseur tandis que 
+juin 19, 2022 10:56:09 PM combat.Tour commence
+INFO: Mélofée le remplace !
+juin 19, 2022 10:56:09 PM combat.Tour lancementAttaque
+INFO: Rhinocorne utilise Abîme sur Mélofée !
+juin 19, 2022 10:56:09 PM combat.Tour lancementAttaque
+INFO: Mélofée a perdu 100% de PV !
+juin 19, 2022 10:56:09 PM combat.Tour affichePV
+INFO: Mélofée a 0% de PV
+juin 19, 2022 10:56:09 PM combat.Tour affichePV
+INFO: Rhinocorne a 100% de PV
+juin 19, 2022 10:56:09 PM combat.Combats verifPokemon
+INFO: Mélofée n'est plus en état de se battre !
+juin 19, 2022 10:56:09 PM pokemon.Pokemon gagneExperienceDe
+INFO: Rhinocorne gagne 15 points d'expérience !
+juin 19, 2022 10:56:09 PM pokemon.Pokemon gagneExperienceDe
+INFO: Rhinocorne monte au niveau 3 !
+juin 19, 2022 10:56:13 PM combat.Combats verifPokemon
+INFO: a envoie Élektek !
+juin 19, 2022 10:56:13 PM combat.Combats commence
+INFO: 
+=================== Tour 1 ==================
+
+juin 19, 2022 10:56:13 PM combat.Dresseur choisitAttaque
+INFO: Le pokemon attaquant choisit son attaque
+

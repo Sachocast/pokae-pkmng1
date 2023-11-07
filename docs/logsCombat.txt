@@ -1,0 +1,1317 @@
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de alea ===========
+
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: Smogo
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: Sabelette
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: Fantominus
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: Ptéra
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: Métamorph
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: Abra
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de prud ===========
+
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: Chétiflor
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: M. Mime
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: Abra
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: Artikodin
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: Krabby
+nov. 07, 2023 4:47:59 PM combat.Combats montreEquipe
+INFO: Évoli
+nov. 07, 2023 4:47:59 PM combat.Combats commence
+INFO: 
+=================== Début du combat ==================
+
+nov. 07, 2023 4:47:59 PM combat.Combats commence
+INFO: alea envoie Ptéra !
+nov. 07, 2023 4:47:59 PM combat.Combats commence
+INFO: prud envoie Évoli !
+nov. 07, 2023 4:47:59 PM combat.Combats commence
+INFO: 
+=================== Tour 0 ==================
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/0 | 0.5075757575757576 attaquant Ptéra utilise Séisme contre Évoli qui utilise Damoclès // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/1 | 0.5255474452554745 attaquant Ptéra utilise Séisme contre Évoli qui utilise Tunnel // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/2 | 0.5185185185185186 attaquant Ptéra utilise Séisme contre Évoli qui utilise Jackpot // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/3 | 0.5112781954887218 attaquant Ptéra utilise Séisme contre Évoli qui utilise Plaquage // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/0 | 0.5454545454545454 attaquant Ptéra utilise Draco-Rage contre Évoli qui utilise Damoclès // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/1 | 0.5454545454545454 attaquant Ptéra utilise Draco-Rage contre Évoli qui utilise Tunnel // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/2 | 0.5454545454545454 attaquant Ptéra utilise Draco-Rage contre Évoli qui utilise Jackpot // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/3 | 0.5454545454545454 attaquant Ptéra utilise Draco-Rage contre Évoli qui utilise Plaquage // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/0 | 0.5 attaquant Ptéra utilise Cru-Ailes contre Évoli qui utilise Damoclès // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/1 | 0.5179856115107913 attaquant Ptéra utilise Cru-Ailes contre Évoli qui utilise Tunnel // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/2 | 0.5109489051094891 attaquant Ptéra utilise Cru-Ailes contre Évoli qui utilise Jackpot // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/3 | 0.5037037037037037 attaquant Ptéra utilise Cru-Ailes contre Évoli qui utilise Plaquage // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/0 | 0.5 attaquant Ptéra utilise Coupe-Vent contre Évoli qui utilise Damoclès // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/1 | 0.5 attaquant Ptéra utilise Coupe-Vent contre Évoli qui utilise Tunnel // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/2 | 0.5109489051094891 attaquant Ptéra utilise Coupe-Vent contre Évoli qui utilise Jackpot // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/3 | 0.5037037037037037 attaquant Ptéra utilise Coupe-Vent contre Évoli qui utilise Plaquage // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/0 | 0.5294117647058824 Ptéra utilise Séisme contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/1 | 0.528 Ptéra utilise Séisme contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/2 | 0.532258064516129 Ptéra utilise Séisme contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/3 | 0.5 Ptéra utilise Séisme contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/4 | 0.528 Ptéra utilise Séisme contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/0 | 0.5454545454545454 Ptéra utilise Draco-Rage contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/1 | 0.5454545454545454 Ptéra utilise Draco-Rage contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/2 | 0.5454545454545454 Ptéra utilise Draco-Rage contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/3 | 0.5454545454545454 Ptéra utilise Draco-Rage contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/4 | 0.5454545454545454 Ptéra utilise Draco-Rage contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/0 | 0.5454545454545454 Ptéra utilise Cru-Ailes contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/1 | 0.5196850393700787 Ptéra utilise Cru-Ailes contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/2 | 0.5238095238095238 Ptéra utilise Cru-Ailes contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/3 | 0.5179856115107914 Ptéra utilise Cru-Ailes contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/4 | 0.5196850393700787 Ptéra utilise Cru-Ailes contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/0 | 0.5179856115107914 Ptéra utilise Coupe-Vent contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/1 | 0.5 Ptéra utilise Coupe-Vent contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/2 | 0.5 Ptéra utilise Coupe-Vent contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/3 | 0.5179856115107914 Ptéra utilise Coupe-Vent contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/4 | 0.5238095238095238 Ptéra utilise Coupe-Vent contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/0 | 0.459016393442623 Ptéra change pour Smogo contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/1 | 0.46268656716417905 Ptéra change pour Sabelette contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/2 | 0.5 Ptéra change pour Fantominus contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/3 | 0.4820143884892087 Ptéra change pour Ptéra contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/4 | 0.459016393442623 Ptéra change pour Métamorph contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/5 | 0.45454545454545453 Ptéra change pour Abra contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/0 | 0.45454545454545453 Ptéra change pour Smogo contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/1 | 0.4782608695652174 Ptéra change pour Sabelette contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/2 | 0.45454545454545453 Ptéra change pour Fantominus contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/3 | 0.5 Ptéra change pour Ptéra contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/4 | 0.4761904761904762 Ptéra change pour Métamorph contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/5 | 0.47200000000000003 Ptéra change pour Abra contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/0 | 0.48031496062992124 Ptéra change pour Smogo contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/1 | 0.4820143884892087 Ptéra change pour Sabelette contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/2 | 0.5 Ptéra change pour Fantominus contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/3 | 0.4929577464788733 Ptéra change pour Ptéra contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/4 | 0.48031496062992124 Ptéra change pour Métamorph contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/5 | 0.4761904761904762 Ptéra change pour Abra contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/0 | 0.4634146341463414 Ptéra change pour Smogo contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/1 | 0.4666666666666667 Ptéra change pour Sabelette contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/2 | 0.5 Ptéra change pour Fantominus contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/3 | 0.48571428571428565 Ptéra change pour Ptéra contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/4 | 0.4634146341463414 Ptéra change pour Métamorph contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/5 | 0.459016393442623 Ptéra change pour Abra contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Tour calculPriorite
+INFO: Ptéra attaque en premier !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Ptéra utilise Cru-Ailes sur Évoli !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Évoli a perdu 42% de PV !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Évoli utilise Damoclès sur Ptéra !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Ptéra a perdu 42% de PV !
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Ptéra a 58% de PV
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Évoli a 58% de PV
+nov. 07, 2023 4:48:00 PM combat.Combats commence
+INFO: 
+=================== Tour 1 ==================
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/0 | 0.5275590551181102 attaquant Ptéra utilise Séisme contre Évoli qui utilise Damoclès // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/1 | 0.5275590551181102 attaquant Ptéra utilise Séisme contre Évoli qui utilise Tunnel // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/2 | 0.5275590551181102 attaquant Ptéra utilise Séisme contre Évoli qui utilise Jackpot // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/3 | 0.5275590551181102 attaquant Ptéra utilise Séisme contre Évoli qui utilise Plaquage // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/0 | 0.5491803278688524 attaquant Ptéra utilise Draco-Rage contre Évoli qui utilise Damoclès // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/1 | 0.5491803278688524 attaquant Ptéra utilise Draco-Rage contre Évoli qui utilise Tunnel // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/2 | 0.5491803278688524 attaquant Ptéra utilise Draco-Rage contre Évoli qui utilise Jackpot // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/3 | 0.5491803278688524 attaquant Ptéra utilise Draco-Rage contre Évoli qui utilise Plaquage // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/0 | 0.4999999999999999 attaquant Ptéra utilise Cru-Ailes contre Évoli qui utilise Damoclès // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/1 | 0.5193798449612402 attaquant Ptéra utilise Cru-Ailes contre Évoli qui utilise Tunnel // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/2 | 0.5118110236220471 attaquant Ptéra utilise Cru-Ailes contre Évoli qui utilise Jackpot // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/3 | 0.504 attaquant Ptéra utilise Cru-Ailes contre Évoli qui utilise Plaquage // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/0 | 0.48062015503875966 attaquant Ptéra utilise Coupe-Vent contre Évoli qui utilise Damoclès // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/1 | 0.5193798449612402 attaquant Ptéra utilise Coupe-Vent contre Évoli qui utilise Tunnel // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/2 | 0.5118110236220471 attaquant Ptéra utilise Coupe-Vent contre Évoli qui utilise Jackpot // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/3 | 0.504 attaquant Ptéra utilise Coupe-Vent contre Évoli qui utilise Plaquage // 7 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/0 | 0.5317460317460317 Ptéra utilise Séisme contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/1 | 0.5302158273381296 Ptéra utilise Séisme contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/2 | 0.5348330914368651 Ptéra utilise Séisme contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/3 | 0.5 Ptéra utilise Séisme contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/4 | 0.5302158273381296 Ptéra utilise Séisme contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/0 | 0.5491803278688525 Ptéra utilise Draco-Rage contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/1 | 0.5491803278688525 Ptéra utilise Draco-Rage contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/2 | 0.5491803278688525 Ptéra utilise Draco-Rage contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/3 | 0.5491803278688525 Ptéra utilise Draco-Rage contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/4 | 0.5491803278688525 Ptéra utilise Draco-Rage contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/0 | 0.5491803278688525 Ptéra utilise Cru-Ailes contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/1 | 0.5212164073550213 Ptéra utilise Cru-Ailes contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/2 | 0.5256776034236804 Ptéra utilise Cru-Ailes contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/3 | 0.5193798449612403 Ptéra utilise Cru-Ailes contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/4 | 0.5212164073550213 Ptéra utilise Cru-Ailes contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/0 | 0.5 Ptéra utilise Coupe-Vent contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/1 | 0.5212164073550213 Ptéra utilise Coupe-Vent contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/2 | 0.5 Ptéra utilise Coupe-Vent contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/3 | 0.5193798449612403 Ptéra utilise Coupe-Vent contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/4 | 0.5256776034236804 Ptéra utilise Coupe-Vent contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/0 | 0.4556868537666175 Ptéra change pour Smogo contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/1 | 0.45967741935483863 Ptéra change pour Sabelette contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/2 | 0.5 Ptéra change pour Fantominus contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/3 | 0.48062015503875977 Ptéra change pour Ptéra contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/4 | 0.4556868537666175 Ptéra change pour Métamorph contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/5 | 0.45081967213114754 Ptéra change pour Abra contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/0 | 0.45081967213114754 Ptéra change pour Smogo contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/1 | 0.4765625 Ptéra change pour Sabelette contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/2 | 0.45081967213114754 Ptéra change pour Fantominus contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/3 | 0.5 Ptéra change pour Ptéra contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/4 | 0.4743223965763195 Ptéra change pour Métamorph contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/5 | 0.46978417266187056 Ptéra change pour Abra contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/0 | 0.4787835926449788 Ptéra change pour Smogo contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/1 | 0.48062015503875977 Ptéra change pour Sabelette contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/2 | 0.5 Ptéra change pour Fantominus contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/3 | 0.4924242424242425 Ptéra change pour Ptéra contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/4 | 0.4787835926449788 Ptéra change pour Métamorph contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/5 | 0.4743223965763195 Ptéra change pour Abra contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/0 | 0.4604685212298682 Ptéra change pour Smogo contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/1 | 0.46399999999999997 Ptéra change pour Sabelette contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/2 | 0.5 Ptéra change pour Fantominus contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/3 | 0.48461538461538456 Ptéra change pour Ptéra contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/4 | 0.4604685212298682 Ptéra change pour Métamorph contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/5 | 0.4556868537666175 Ptéra change pour Abra contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Tour commence
+INFO: Ptéra retourne vers son dresseur tandis que 
+nov. 07, 2023 4:48:00 PM combat.Tour commence
+INFO: Fantominus le remplace !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Évoli utilise Damoclès sur Fantominus !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Fantominus a perdu 0% de PV !
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Fantominus a 100% de PV
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Évoli a 58% de PV
+nov. 07, 2023 4:48:00 PM combat.Combats commence
+INFO: 
+=================== Tour 2 ==================
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/0 | 0.5 attaquant Fantominus utilise Léchouille contre Évoli qui utilise Damoclès // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/1 | 0.4508196721311475 attaquant Fantominus utilise Léchouille contre Évoli qui utilise Tunnel // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/2 | 0.5 attaquant Fantominus utilise Léchouille contre Évoli qui utilise Jackpot // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/3 | 0.5 attaquant Fantominus utilise Léchouille contre Évoli qui utilise Plaquage // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/0 | 0.5037593984962405 attaquant Fantominus utilise Vague Psy contre Évoli qui utilise Damoclès // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/1 | 0.4508196721311475 attaquant Fantominus utilise Vague Psy contre Évoli qui utilise Tunnel // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/2 | 0.5037593984962405 attaquant Fantominus utilise Vague Psy contre Évoli qui utilise Jackpot // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/3 | 0.5 attaquant Fantominus utilise Vague Psy contre Évoli qui utilise Plaquage // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/0 | 0.5275590551181102 attaquant Fantominus utilise Psyko contre Évoli qui utilise Damoclès // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/1 | 0.4508196721311475 attaquant Fantominus utilise Psyko contre Évoli qui utilise Tunnel // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/2 | 0.5275590551181102 attaquant Fantominus utilise Psyko contre Évoli qui utilise Jackpot // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/3 | 0.5275590551181102 attaquant Fantominus utilise Psyko contre Évoli qui utilise Plaquage // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/0 | 0.5275590551181102 attaquant Fantominus utilise Destruction contre Évoli qui utilise Damoclès // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/1 | 0.4508196721311475 attaquant Fantominus utilise Destruction contre Évoli qui utilise Tunnel // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/2 | 0.5275590551181102 attaquant Fantominus utilise Destruction contre Évoli qui utilise Jackpot // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/3 | 0.5275590551181102 attaquant Fantominus utilise Destruction contre Évoli qui utilise Plaquage // 6 6
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/0 | 0.5153846153846153 Fantominus utilise Léchouille contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/1 | 0.5 Fantominus utilise Léchouille contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/2 | 0.5 Fantominus utilise Léchouille contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/3 | 0.5153846153846153 Fantominus utilise Léchouille contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/4 | 0.5168302945301543 Fantominus utilise Léchouille contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/0 | 0.5037593984962405 Fantominus utilise Vague Psy contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/1 | 0.5041039671682627 Fantominus utilise Vague Psy contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/2 | 0.5 Fantominus utilise Vague Psy contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/3 | 0.5 Fantominus utilise Vague Psy contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/4 | 0.5041039671682627 Fantominus utilise Vague Psy contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/0 | 0.5491803278688525 Fantominus utilise Psyko contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/1 | 0.5125173852573018 Fantominus utilise Psyko contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/2 | 0.5125173852573018 Fantominus utilise Psyko contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/3 | 0.5234375 Fantominus utilise Psyko contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/4 | 0.5348330914368651 Fantominus utilise Psyko contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/0 | 0.5317460317460317 Fantominus utilise Destruction contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/1 | 0.5302158273381296 Fantominus utilise Destruction contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/2 | 0.5348330914368651 Fantominus utilise Destruction contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/3 | 0.5234375 Fantominus utilise Destruction contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/4 | 0.5302158273381296 Fantominus utilise Destruction contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/0 | 0.4556868537666175 Fantominus change pour Smogo contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/1 | 0.45967741935483863 Fantominus change pour Sabelette contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/2 | 0.5 Fantominus change pour Fantominus contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/3 | 0.48062015503875977 Fantominus change pour Ptéra contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/4 | 0.4556868537666175 Fantominus change pour Métamorph contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/5 | 0.45081967213114754 Fantominus change pour Abra contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/0 | 0.45081967213114754 Fantominus change pour Smogo contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/1 | 0.4765625 Fantominus change pour Sabelette contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/2 | 0.45081967213114754 Fantominus change pour Fantominus contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/3 | 0.5 Fantominus change pour Ptéra contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/4 | 0.4743223965763195 Fantominus change pour Métamorph contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/5 | 0.46978417266187056 Fantominus change pour Abra contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/0 | 0.4787835926449788 Fantominus change pour Smogo contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/1 | 0.48062015503875977 Fantominus change pour Sabelette contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/2 | 0.5 Fantominus change pour Fantominus contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/3 | 0.4924242424242425 Fantominus change pour Ptéra contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/4 | 0.4787835926449788 Fantominus change pour Métamorph contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/5 | 0.4743223965763195 Fantominus change pour Abra contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/0 | 0.4604685212298682 Fantominus change pour Smogo contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/1 | 0.46399999999999997 Fantominus change pour Sabelette contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/2 | 0.5 Fantominus change pour Fantominus contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/3 | 0.48461538461538456 Fantominus change pour Ptéra contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/4 | 0.4604685212298682 Fantominus change pour Métamorph contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/5 | 0.4556868537666175 Fantominus change pour Abra contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Tour calculPriorite
+INFO: Évoli gagne le speed tie
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Évoli utilise Tunnel sur Fantominus !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Fantominus a perdu 100% de PV !
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Fantominus a 0% de PV
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Évoli a 58% de PV
+nov. 07, 2023 4:48:00 PM combat.Combats verifPokemon
+INFO: Fantominus n'est plus en état de se battre !
+nov. 07, 2023 4:48:00 PM pokemon.Pokemon gagneExperienceDe
+INFO: Évoli gagne 20 points d'expérience !
+nov. 07, 2023 4:48:00 PM pokemon.Pokemon gagneExperienceDe
+INFO: Évoli monte au niveau 3 !
+nov. 07, 2023 4:48:00 PM combat.Combats verifPokemon
+INFO: alea envoie Métamorph !
+nov. 07, 2023 4:48:00 PM combat.Combats commence
+INFO: 
+=================== Tour 3 ==================
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/0 | 0.3909090909090909 attaquant Métamorph utilise Charge contre Évoli qui utilise Damoclès // 6 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/1 | 0.4046030032387869 attaquant Métamorph utilise Charge contre Évoli qui utilise Tunnel // 6 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/2 | 0.4162898104493409 attaquant Métamorph utilise Charge contre Évoli qui utilise Jackpot // 6 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/3 | 0.3909090909090909 attaquant Métamorph utilise Charge contre Évoli qui utilise Plaquage // 6 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/0 | 0.3909090909090909 attaquant Métamorph utilise Lutte contre Évoli qui utilise Damoclès // 6 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/1 | 0.4046030032387869 attaquant Métamorph utilise Lutte contre Évoli qui utilise Tunnel // 6 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/2 | 0.4162898104493409 attaquant Métamorph utilise Lutte contre Évoli qui utilise Jackpot // 6 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/3 | 0.3909090909090909 attaquant Métamorph utilise Lutte contre Évoli qui utilise Plaquage // 6 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/0 | 0.4661016949152542 Métamorph utilise Charge contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/1 | 0.4632465543644716 Métamorph utilise Charge contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/2 | 0.4675425038639876 Métamorph utilise Charge contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/3 | 0.4621848739495798 Métamorph utilise Charge contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/4 | 0.4632465543644716 Métamorph utilise Charge contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/0 | 0.4661016949152542 Métamorph utilise Lutte contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/1 | 0.4675425038639876 Métamorph utilise Lutte contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/2 | 0.4675425038639876 Métamorph utilise Lutte contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/3 | 0.4661016949152542 Métamorph utilise Lutte contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/4 | 0.4675425038639876 Métamorph utilise Lutte contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/0 | 0.3909090909090909 Métamorph change pour Smogo contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/1 | 0.3909090909090909 Métamorph change pour Sabelette contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/3 | 0.41739130434782606 Métamorph change pour Ptéra contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/4 | 0.3909090909090909 Métamorph change pour Métamorph contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/5 | 0.3909090909090909 Métamorph change pour Abra contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/0 | 0.3909090909090909 Métamorph change pour Smogo contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/1 | 0.40178571428571425 Métamorph change pour Sabelette contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/3 | 0.4508196721311475 Métamorph change pour Ptéra contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/4 | 0.39689034369885423 Métamorph change pour Métamorph contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/5 | 0.3909090909090909 Métamorph change pour Abra contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/0 | 0.40850722311396465 Métamorph change pour Smogo contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/1 | 0.41228070175438586 Métamorph change pour Sabelette contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/3 | 0.43220338983050843 Métamorph change pour Ptéra contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/4 | 0.40850722311396465 Métamorph change pour Métamorph contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/5 | 0.40275526742301454 Métamorph change pour Abra contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/0 | 0.3909090909090909 Métamorph change pour Smogo contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/1 | 0.3909090909090909 Métamorph change pour Sabelette contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/3 | 0.42241379310344823 Métamorph change pour Ptéra contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/4 | 0.3909090909090909 Métamorph change pour Métamorph contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/5 | 0.3909090909090909 Métamorph change pour Abra contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Tour commence
+INFO: Métamorph retourne vers son dresseur tandis que 
+nov. 07, 2023 4:48:00 PM combat.Tour commence
+INFO: Métamorph le remplace !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Évoli utilise Damoclès sur Métamorph !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Métamorph a perdu -9% de PV !
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Métamorph a 0% de PV
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Évoli a 58% de PV
+nov. 07, 2023 4:48:00 PM combat.Combats verifPokemon
+INFO: Métamorph n'est plus en état de se battre !
+nov. 07, 2023 4:48:00 PM pokemon.Pokemon gagneExperienceDe
+INFO: Évoli gagne 13 points d'expérience !
+nov. 07, 2023 4:48:00 PM combat.Combats verifPokemon
+INFO: alea envoie Sabelette !
+nov. 07, 2023 4:48:00 PM combat.Combats commence
+INFO: 
+=================== Tour 4 ==================
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/0 | 0.31632653061224486 attaquant Sabelette utilise Force contre Évoli qui utilise Damoclès // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/1 | 0.33958837772397094 attaquant Sabelette utilise Force contre Évoli qui utilise Tunnel // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/2 | 0.35290628706998806 attaquant Sabelette utilise Force contre Évoli qui utilise Jackpot // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/3 | 0.31632653061224486 attaquant Sabelette utilise Force contre Évoli qui utilise Plaquage // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/0 | 0.31632653061224486 attaquant Sabelette utilise Frénésie contre Évoli qui utilise Damoclès // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/1 | 0.3347255369928401 attaquant Sabelette utilise Frénésie contre Évoli qui utilise Tunnel // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/2 | 0.34795321637426896 attaquant Sabelette utilise Frénésie contre Évoli qui utilise Jackpot // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/3 | 0.31632653061224486 attaquant Sabelette utilise Frénésie contre Évoli qui utilise Plaquage // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/0 | 0.31632653061224486 attaquant Sabelette utilise Vampirisme contre Évoli qui utilise Damoclès // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/1 | 0.3347255369928401 attaquant Sabelette utilise Vampirisme contre Évoli qui utilise Tunnel // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/2 | 0.34795321637426896 attaquant Sabelette utilise Vampirisme contre Évoli qui utilise Jackpot // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/3 | 0.31632653061224486 attaquant Sabelette utilise Vampirisme contre Évoli qui utilise Plaquage // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/0 | 0.31632653061224486 attaquant Sabelette utilise Frappe Atlas contre Évoli qui utilise Damoclès // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/1 | 0.33234597156398105 attaquant Sabelette utilise Frappe Atlas contre Évoli qui utilise Tunnel // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/2 | 0.3455284552845528 attaquant Sabelette utilise Frappe Atlas contre Évoli qui utilise Jackpot // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/3 | 0.31632653061224486 attaquant Sabelette utilise Frappe Atlas contre Évoli qui utilise Plaquage // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/0 | 0.4134615384615384 Sabelette utilise Force contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/1 | 0.41130434782608694 Sabelette utilise Force contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/2 | 0.41564147627416514 Sabelette utilise Force contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/3 | 0.40952380952380946 Sabelette utilise Force contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/4 | 0.41130434782608694 Sabelette utilise Force contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/0 | 0.4018691588785046 Sabelette utilise Frénésie contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/1 | 0.39881956155143333 Sabelette utilise Frénésie contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/2 | 0.40289608177172054 Sabelette utilise Frénésie contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/3 | 0.3981481481481481 Sabelette utilise Frénésie contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/4 | 0.39881956155143333 Sabelette utilise Frénésie contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/0 | 0.43877551020408156 Sabelette utilise Vampirisme contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/1 | 0.41130434782608694 Sabelette utilise Vampirisme contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/2 | 0.41564147627416514 Sabelette utilise Vampirisme contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/3 | 0.39449541284403666 Sabelette utilise Vampirisme contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/4 | 0.39881956155143333 Sabelette utilise Vampirisme contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/0 | 0.39449541284403666 Sabelette utilise Frappe Atlas contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/1 | 0.39482470784641066 Sabelette utilise Frappe Atlas contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/2 | 0.39482470784641066 Sabelette utilise Frappe Atlas contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/3 | 0.39449541284403666 Sabelette utilise Frappe Atlas contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/4 | 0.39482470784641066 Sabelette utilise Frappe Atlas contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/0 | 0.31632653061224486 Sabelette change pour Smogo contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/1 | 0.31632653061224486 Sabelette change pour Sabelette contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/3 | 0.34951456310679613 Sabelette change pour Ptéra contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/5 | 0.31632653061224486 Sabelette change pour Abra contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/0 | 0.31632653061224486 Sabelette change pour Smogo contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/1 | 0.32999999999999996 Sabelette change pour Sabelette contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/3 | 0.3909090909090909 Sabelette change pour Ptéra contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/5 | 0.31632653061224486 Sabelette change pour Abra contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/0 | 0.33842010771992814 Sabelette change pour Smogo contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/1 | 0.3431372549019607 Sabelette change pour Sabelette contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/3 | 0.36792452830188677 Sabelette change pour Ptéra contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/5 | 0.33121597096188743 Sabelette change pour Abra contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/0 | 0.31632653061224486 Sabelette change pour Smogo contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/1 | 0.31632653061224486 Sabelette change pour Sabelette contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/3 | 0.3557692307692307 Sabelette change pour Ptéra contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/5 | 0.31632653061224486 Sabelette change pour Abra contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Tour commence
+INFO: Sabelette retourne vers son dresseur tandis que 
+nov. 07, 2023 4:48:00 PM combat.Tour commence
+INFO: Abra le remplace !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Évoli utilise Damoclès sur Abra !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Abra a perdu 100% de PV !
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Abra a 0% de PV
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Évoli a 58% de PV
+nov. 07, 2023 4:48:00 PM combat.Combats verifPokemon
+INFO: Abra n'est plus en état de se battre !
+nov. 07, 2023 4:48:00 PM pokemon.Pokemon gagneExperienceDe
+INFO: Évoli gagne 16 points d'expérience !
+nov. 07, 2023 4:48:00 PM combat.Combats verifPokemon
+INFO: alea envoie Sabelette !
+nov. 07, 2023 4:48:00 PM combat.Combats commence
+INFO: 
+=================== Tour 5 ==================
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/0 | 0.22093023255813948 attaquant Sabelette utilise Force contre Évoli qui utilise Damoclès // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/1 | 0.2465469613259668 attaquant Sabelette utilise Force contre Évoli qui utilise Tunnel // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/2 | 0.26383265856950067 attaquant Sabelette utilise Force contre Évoli qui utilise Jackpot // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/3 | 0.22093023255813948 attaquant Sabelette utilise Force contre Évoli qui utilise Plaquage // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/0 | 0.22093023255813948 attaquant Sabelette utilise Frénésie contre Évoli qui utilise Damoclès // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/1 | 0.24252717391304343 attaquant Sabelette utilise Frénésie contre Évoli qui utilise Tunnel // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/2 | 0.2596281540504648 attaquant Sabelette utilise Frénésie contre Évoli qui utilise Jackpot // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/3 | 0.22093023255813948 attaquant Sabelette utilise Frénésie contre Évoli qui utilise Plaquage // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/0 | 0.22093023255813948 attaquant Sabelette utilise Vampirisme contre Évoli qui utilise Damoclès // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/1 | 0.24252717391304343 attaquant Sabelette utilise Vampirisme contre Évoli qui utilise Tunnel // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/2 | 0.2596281540504648 attaquant Sabelette utilise Vampirisme contre Évoli qui utilise Jackpot // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/3 | 0.22093023255813948 attaquant Sabelette utilise Vampirisme contre Évoli qui utilise Plaquage // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/0 | 0.22093023255813948 attaquant Sabelette utilise Frappe Atlas contre Évoli qui utilise Damoclès // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/1 | 0.240566037735849 attaquant Sabelette utilise Frappe Atlas contre Évoli qui utilise Tunnel // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/2 | 0.25757575757575757 attaquant Sabelette utilise Frappe Atlas contre Évoli qui utilise Jackpot // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/3 | 0.22093023255813948 attaquant Sabelette utilise Frappe Atlas contre Évoli qui utilise Plaquage // 5 9
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/0 | 0.3369565217391304 Sabelette utilise Force contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/1 | 0.33497053045186637 Sabelette utilise Force contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/2 | 0.33896620278330014 Sabelette utilise Force contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/3 | 0.33333333333333326 Sabelette utilise Force contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/4 | 0.33497053045186637 Sabelette utilise Force contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/0 | 0.32631578947368417 Sabelette utilise Frénésie contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/1 | 0.3235294117647058 Sabelette utilise Frénésie contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/2 | 0.3272552783109404 Sabelette utilise Frénésie contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/3 | 0.3229166666666666 Sabelette utilise Frénésie contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/4 | 0.3235294117647058 Sabelette utilise Frénésie contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/0 | 0.3604651162790697 Sabelette utilise Vampirisme contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/1 | 0.33497053045186637 Sabelette utilise Vampirisme contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/2 | 0.33896620278330014 Sabelette utilise Vampirisme contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/3 | 0.31958762886597936 Sabelette utilise Vampirisme contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/4 | 0.3235294117647058 Sabelette utilise Vampirisme contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/0 | 0.31958762886597936 Sabelette utilise Frappe Atlas contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/1 | 0.3198874296435272 Sabelette utilise Frappe Atlas contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/2 | 0.3198874296435272 Sabelette utilise Frappe Atlas contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/3 | 0.31958762886597936 Sabelette utilise Frappe Atlas contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/4 | 0.3198874296435272 Sabelette utilise Frappe Atlas contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/0 | 0.22093023255813948 Sabelette change pour Smogo contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/1 | 0.22093023255813948 Sabelette change pour Sabelette contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/3 | 0.2637362637362637 Sabelette change pour Ptéra contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/0 | 0.22093023255813948 Sabelette change pour Smogo contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/1 | 0.2386363636363636 Sabelette change pour Sabelette contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/3 | 0.31632653061224486 Sabelette change pour Ptéra contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/0 | 0.24949083503054983 Sabelette change pour Smogo contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/1 | 0.2555555555555555 Sabelette change pour Sabelette contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/3 | 0.28723404255319146 Sabelette change pour Ptéra contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/0 | 0.22093023255813948 Sabelette change pour Smogo contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/1 | 0.22093023255813948 Sabelette change pour Sabelette contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/3 | 0.27173913043478254 Sabelette change pour Ptéra contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Tour calculPriorite
+INFO: Évoli attaque en premier !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Évoli utilise Damoclès sur Sabelette !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Sabelette a perdu 100% de PV !
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Sabelette a 0% de PV
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Évoli a 58% de PV
+nov. 07, 2023 4:48:00 PM combat.Combats verifPokemon
+INFO: Sabelette n'est plus en état de se battre !
+nov. 07, 2023 4:48:00 PM pokemon.Pokemon gagneExperienceDe
+INFO: Évoli gagne 20 points d'expérience !
+nov. 07, 2023 4:48:00 PM pokemon.Pokemon gagneExperienceDe
+INFO: Évoli monte au niveau 4 !
+nov. 07, 2023 4:48:00 PM combat.Combats verifPokemon
+INFO: alea envoie Smogo !
+nov. 07, 2023 4:48:00 PM combat.Combats commence
+INFO: 
+=================== Tour 6 ==================
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/0 | 0.09459459459459456 attaquant Smogo utilise Charge contre Évoli qui utilise Damoclès // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/1 | 0.09459459459459456 attaquant Smogo utilise Charge contre Évoli qui utilise Tunnel // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/2 | 0.12359912404998062 attaquant Smogo utilise Charge contre Évoli qui utilise Jackpot // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/3 | 0.09459459459459456 attaquant Smogo utilise Charge contre Évoli qui utilise Plaquage // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/0 | 0.09459459459459456 attaquant Smogo utilise Fatal-Foudre contre Évoli qui utilise Damoclès // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/1 | 0.09459459459459456 attaquant Smogo utilise Fatal-Foudre contre Évoli qui utilise Tunnel // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/2 | 0.12573712488533606 attaquant Smogo utilise Fatal-Foudre contre Évoli qui utilise Jackpot // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/3 | 0.09459459459459456 attaquant Smogo utilise Fatal-Foudre contre Évoli qui utilise Plaquage // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/0 | 0.09459459459459456 attaquant Smogo utilise Lance-Flammes contre Évoli qui utilise Damoclès // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/1 | 0.09459459459459456 attaquant Smogo utilise Lance-Flammes contre Évoli qui utilise Tunnel // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/2 | 0.12465895803559825 attaquant Smogo utilise Lance-Flammes contre Évoli qui utilise Jackpot // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/3 | 0.09459459459459456 attaquant Smogo utilise Lance-Flammes contre Évoli qui utilise Plaquage // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/0 | 0.09459459459459456 attaquant Smogo utilise Rafale Psy contre Évoli qui utilise Damoclès // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/1 | 0.09459459459459456 attaquant Smogo utilise Rafale Psy contre Évoli qui utilise Tunnel // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/2 | 0.12359912404998062 attaquant Smogo utilise Rafale Psy contre Évoli qui utilise Jackpot // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/3 | 0.09459459459459456 attaquant Smogo utilise Rafale Psy contre Évoli qui utilise Plaquage // 5 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/0 | 0.2317073170731707 Smogo utilise Charge contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/1 | 0.2296703296703296 Smogo utilise Charge contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/2 | 0.23273942093541197 Smogo utilise Charge contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/3 | 0.22891566265060237 Smogo utilise Charge contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/4 | 0.2296703296703296 Smogo utilise Charge contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/0 | 0.22093023255813948 Smogo utilise Fatal-Foudre contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/1 | 0.23913043478260862 Smogo utilise Fatal-Foudre contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/2 | 0.23913043478260862 Smogo utilise Fatal-Foudre contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/3 | 0.2567567567567567 Smogo utilise Fatal-Foudre contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/4 | 0.2567567567567567 Smogo utilise Fatal-Foudre contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/0 | 0.2567567567567567 Smogo utilise Lance-Flammes contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/1 | 0.23589164785553043 Smogo utilise Lance-Flammes contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/2 | 0.23589164785553043 Smogo utilise Lance-Flammes contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/3 | 0.25333333333333324 Smogo utilise Lance-Flammes contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/4 | 0.2296703296703296 Smogo utilise Lance-Flammes contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/0 | 0.24999999999999994 Smogo utilise Rafale Psy contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/1 | 0.22668112798264636 Smogo utilise Rafale Psy contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/2 | 0.22668112798264636 Smogo utilise Rafale Psy contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/3 | 0.2317073170731707 Smogo utilise Rafale Psy contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/4 | 0.23589164785553043 Smogo utilise Rafale Psy contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/0 | 0.09459459459459456 Smogo change pour Smogo contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/3 | 0.12987012987012983 Smogo change pour Ptéra contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/0 | 0.09459459459459456 Smogo change pour Smogo contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/3 | 0.22093023255813948 Smogo change pour Ptéra contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/0 | 0.12052505966587107 Smogo change pour Smogo contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/3 | 0.18292682926829265 Smogo change pour Ptéra contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/0 | 0.09459459459459456 Smogo change pour Smogo contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/3 | 0.141025641025641 Smogo change pour Ptéra contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Tour calculPriorite
+INFO: Évoli attaque en premier !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Évoli utilise Damoclès sur Smogo !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Smogo a perdu 100% de PV !
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Smogo a 0% de PV
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Évoli a 58% de PV
+nov. 07, 2023 4:48:00 PM combat.Combats verifPokemon
+INFO: Smogo n'est plus en état de se battre !
+nov. 07, 2023 4:48:00 PM pokemon.Pokemon gagneExperienceDe
+INFO: Évoli gagne 24 points d'expérience !
+nov. 07, 2023 4:48:00 PM combat.Combats verifPokemon
+INFO: alea envoie Ptéra !
+nov. 07, 2023 4:48:00 PM combat.Combats commence
+INFO: 
+=================== Tour 7 ==================
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/0 | -0.030769230769230774 attaquant Ptéra utilise Séisme contre Évoli qui utilise Damoclès // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/1 | 0.09881129271916787 attaquant Ptéra utilise Séisme contre Évoli qui utilise Tunnel // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/2 | 0.04488188976377952 attaquant Ptéra utilise Séisme contre Évoli qui utilise Jackpot // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 0/3 | -0.015151515151515143 attaquant Ptéra utilise Séisme contre Évoli qui utilise Plaquage // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/0 | -0.030769230769230774 attaquant Ptéra utilise Draco-Rage contre Évoli qui utilise Damoclès // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/1 | 0.11290322580645158 attaquant Ptéra utilise Draco-Rage contre Évoli qui utilise Tunnel // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/2 | 0.05172413793103448 attaquant Ptéra utilise Draco-Rage contre Évoli qui utilise Jackpot // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 1/3 | -0.015151515151515143 attaquant Ptéra utilise Draco-Rage contre Évoli qui utilise Plaquage // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/0 | -0.030769230769230774 attaquant Ptéra utilise Cru-Ailes contre Évoli qui utilise Damoclès // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/1 | 0.09793814432989689 attaquant Ptéra utilise Cru-Ailes contre Évoli qui utilise Tunnel // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/2 | 0.044461778471138844 attaquant Ptéra utilise Cru-Ailes contre Évoli qui utilise Jackpot // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 2/3 | -0.015151515151515143 attaquant Ptéra utilise Cru-Ailes contre Évoli qui utilise Plaquage // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/0 | -0.030769230769230774 attaquant Ptéra utilise Coupe-Vent contre Évoli qui utilise Damoclès // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/1 | 0.09793814432989689 attaquant Ptéra utilise Coupe-Vent contre Évoli qui utilise Tunnel // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/2 | 0.044461778471138844 attaquant Ptéra utilise Coupe-Vent contre Évoli qui utilise Jackpot // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AA  | 3/3 | -0.015151515151515143 attaquant Ptéra utilise Coupe-Vent contre Évoli qui utilise Plaquage // 7 10
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/0 | 0.10606060606060604 Ptéra utilise Séisme contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/1 | 0.10547945205479449 Ptéra utilise Séisme contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/2 | 0.10724233983286906 Ptéra utilise Séisme contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/3 | 0.09459459459459457 Ptéra utilise Séisme contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 3/4 | 0.10547945205479449 Ptéra utilise Séisme contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/0 | 0.11290322580645158 Ptéra utilise Draco-Rage contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/1 | 0.11290322580645158 Ptéra utilise Draco-Rage contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/2 | 0.11290322580645158 Ptéra utilise Draco-Rage contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/3 | 0.11290322580645158 Ptéra utilise Draco-Rage contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 4/4 | 0.11290322580645158 Ptéra utilise Draco-Rage contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/0 | 0.11290322580645158 Ptéra utilise Cru-Ailes contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/1 | 0.10212201591511935 Ptéra utilise Cru-Ailes contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/2 | 0.10377358490566034 Ptéra utilise Cru-Ailes contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/3 | 0.1014492753623188 Ptéra utilise Cru-Ailes contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 5/4 | 0.10212201591511935 Ptéra utilise Cru-Ailes contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/0 | 0.1014492753623188 Ptéra utilise Coupe-Vent contre Évoli qui change pour Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/1 | 0.10212201591511935 Ptéra utilise Coupe-Vent contre Évoli qui change pour M. Mime
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/2 | 0.10212201591511935 Ptéra utilise Coupe-Vent contre Évoli qui change pour Abra
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/3 | 0.1014492753623188 Ptéra utilise Coupe-Vent contre Évoli qui change pour Artikodin
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat AE  | 6/4 | 0.09459459459459457 Ptéra utilise Coupe-Vent contre Évoli qui change pour Krabby
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 7/3 | -0.030769230769230774 Ptéra change pour Ptéra contre Évoli qui utilise Damoclès
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 8/3 | 0.09459459459459457 Ptéra change pour Ptéra contre Évoli qui utilise Tunnel
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 9/3 | 0.04285714285714286 Ptéra change pour Ptéra contre Évoli qui utilise Jackpot
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: Etat EA  | 10/3 | -0.01515151515151514 Ptéra change pour Ptéra contre Évoli qui utilise Plaquage
+nov. 07, 2023 4:48:00 PM combat.Prudente evaluationP
+INFO: 
+
+nov. 07, 2023 4:48:00 PM combat.Tour calculPriorite
+INFO: Évoli attaque en premier !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Évoli utilise Plaquage sur Ptéra !
+nov. 07, 2023 4:48:00 PM combat.Tour lancementAttaque
+INFO: Ptéra a perdu 58% de PV !
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Ptéra a 0% de PV
+nov. 07, 2023 4:48:00 PM combat.Tour affichePV
+INFO: Évoli a 58% de PV
+nov. 07, 2023 4:48:00 PM combat.Combats verifPokemon
+INFO: Ptéra n'est plus en état de se battre !
+nov. 07, 2023 4:48:00 PM pokemon.Pokemon gagneExperienceDe
+INFO: Évoli gagne 43 points d'expérience !
+nov. 07, 2023 4:48:00 PM pokemon.Pokemon gagneExperienceDe
+INFO: Évoli monte au niveau 6 !
+nov. 07, 2023 4:48:00 PM combat.Combats termine
+INFO: 
+prud remporte le combat contre alea !
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de alea ===========
+
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: Smogo
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: Sabelette
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: Fantominus
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: Ptéra
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: Métamorph
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: Abra
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: 
+========== Equipe de prud ===========
+
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: Chétiflor
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: M. Mime
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: Abra
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: Artikodin
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: Krabby
+nov. 07, 2023 4:48:00 PM combat.Combats montreEquipe
+INFO: Évoli

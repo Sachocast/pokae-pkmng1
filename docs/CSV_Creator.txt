@@ -1,0 +1,23 @@
+        Pokedex pokedex = new Pokedex();
+        File newFile = new File("docs/especeCapa.csv");
+        PrintWriter out = new PrintWriter(newFile);
+
+        out.println("Numéro;Nom;PV-base;Force-base;Défense-base;Spécial-base;Vitesse-base;Exp base;EV-PV;EV-Force;EV-defense;EV-special;EV-vitesse;Type 1;Type 2;Niveau de base;Niv mutation;Espece mutation;Capacites");
+        for(int i = 1; i < 152; i++) {
+            Espece espece = (Espece) pokedex.getInfo(pokedex.getListeEspece().get(i).getNom());
+            System.out.println(espece.getNom()); //Pour vérifier l'avancement car c'est très long (~ 5min)
+            if(espece.getEvolution(0) != null) { 
+                out.print(espece.getNoPokedex() + ";" + espece.getNom() + ";" + espece.getBaseStat().getPV() + ";" + espece.getBaseStat().getForce() + ";" + espece.getBaseStat().getDefense() + ";" + espece.getBaseStat().getSpecial() + ";" + espece.getBaseStat().getVitesse() + ";" + espece.getBaseExp() + ";" + espece.getGainsStat().getPV() + ";" + espece.getGainsStat().getForce() + ";" + espece.getGainsStat().getDefense() + ";" + espece.getGainsStat().getSpecial() + ";" + espece.getGainsStat().getVitesse() + ";" + espece.getTypes()[0].getNom() + ";" + espece.getTypes()[1].getNom() + ";" + espece.getNiveauDepart() + ";" + espece.getEvolution(0).getNiveauDepart() + ";" + espece.getEvolution(0).getNom() + ";");
+            }     
+            else{
+                out.print(espece.getNoPokedex() + ";" + espece.getNom() + ";" + espece.getBaseStat().getPV() + ";" + espece.getBaseStat().getForce() + ";" + espece.getBaseStat().getDefense() + ";" + espece.getBaseStat().getSpecial() + ";" + espece.getBaseStat().getVitesse() + ";" + espece.getBaseExp() + ";" + espece.getGainsStat().getPV() + ";" + espece.getGainsStat().getForce() + ";" + espece.getGainsStat().getDefense() + ";" + espece.getGainsStat().getSpecial() + ";" + espece.getGainsStat().getVitesse() + ";" + espece.getTypes()[0].getNom() + ";" + espece.getTypes()[1].getNom() + ";" + espece.getNiveauDepart() + ";" + 0 + ";;");
+            }
+            int i2 = 0;
+            while(espece.getCapSet()[i2] != null) {
+                Capacite capa = (Capacite) espece.getCapSet()[i2];
+                out.print(capa.getNom() + ";" + espece.getLvlLearnedCapSet().get(capa) + ";");
+                i2++;
+            }
+            out.println(";;;;");
+        }
+        out.close();

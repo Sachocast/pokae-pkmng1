@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="docs/Json/json-simple-1.1.1.jar;docs/Junit/junit-platform-console-standalone-1.8.2.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="15" sourcefiles="src/main/combat/Strategy.java" sourcepath="src/main;src/test" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
